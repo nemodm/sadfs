@@ -1,0 +1,58 @@
+.alert,
+.navbar {
+  width: 1210px;
+  height: 72px;
+  background-color: #63bb40;
+}
+
+.str {
+  font-size: 30px;
+}
+
+.h2,
+h2 {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.cardowl {
+  width: 228px;
+  height: 320.1px;
+  border: 1.5px solid #113448;
+  box-shadow: 0 0 2px rgb(0, 0, 0);
+}
+
+.cardowl .btn1,
+.bnt {
+  width: 250px;
+  height: 50px;
+  background-color: #113448;
+  border: #113448;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.crd {
+  box-shadow: 0 0 3.5px rgb(0, 0, 0);
+  border: 1.5px solid #113448;
+}
