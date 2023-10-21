@@ -1,8 +1,16 @@
-.alert,
-.navbar {
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.alert{
   width: 1210px;
   height: 72px;
   background-color: #63bb40;
+}
+
+.navbar{
+  width: 1210px;
+  height: 50px;
 }
 
 .str {
@@ -55,4 +63,20 @@ h6 {
 .crd {
   box-shadow: 0 0 3.5px rgb(0, 0, 0);
   border: 1.5px solid #113448;
+}
+
+.navbar .aaaaa{
+  font-size: 17px;
+  padding-left: 50px;
+  text-decoration: none;
+  color: #383d41;
+}
+
+.navbar .aaaaa:hover{
+  color: #63bb40;
+  font-size: 17.5px;
+}
+
+.caaaaaard{
+  width: 1210px;
 }
